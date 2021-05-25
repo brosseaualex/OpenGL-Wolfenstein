@@ -18,4 +18,4 @@
 
 ## NOTES
 
-SOME FEATURES WERE NOT DEVELOP BY ME. I AM ONLY RESPONSIBLE FOR THE AI / FSM AND BULLETS MANAGEMENT.
+This was a group project. Not all features were developped by myself.
